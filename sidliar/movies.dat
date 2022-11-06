@@ -1,4 +1,4 @@
-movie_id::title::genres
+MovieID::Title::Genres
 1::Toy Story (1995)::Animation|Children's|Comedy
 2::Jumanji (1995)::Adventure|Children's|Fantasy
 3::Grumpier Old Men (1995)::Comedy|Romance
@@ -407,7 +407,7 @@ movie_id::title::genres
 409::Above the Rim (1994)::Drama
 410::Addams Family Values (1993)::Comedy
 411::You So Crazy (1994)::Comedy
-412::age of Innocence, The (1993)::Drama
+412::Age of Innocence, The (1993)::Drama
 413::Airheads (1994)::Comedy
 414::Air Up There, The (1994)::Comedy
 415::Another Stakeout (1993)::Comedy|Thriller
@@ -498,7 +498,7 @@ movie_id::title::genres
 500::Mrs. Doubtfire (1993)::Comedy
 501::Naked (1993)::Drama
 502::Next Karate Kid, The (1994)::Action|Children's
-503::New age, The (1994)::Drama
+503::New Age, The (1994)::Drama
 504::No Escape (1994)::Action|Sci-Fi
 505::North (1994)::Comedy
 506::Orlando (1993)::Drama
@@ -1026,7 +1026,7 @@ movie_id::title::genres
 1037::Lawnmower Man, The (1992)::Action|Sci-Fi|Thriller
 1038::Unhook the Stars (1996)::Drama
 1039::Synthetic Pleasures (1995)::Documentary
-1040::Secret agent, The (1996)::Drama
+1040::Secret Agent, The (1996)::Drama
 1041::Secrets & Lies (1996)::Drama
 1042::That Thing You Do! (1996)::Comedy
 1043::To Gillian on Her 37th Birthday (1996)::Drama|Romance
@@ -2141,7 +2141,7 @@ movie_id::title::genres
 2208::Lady Vanishes, The (1938)::Comedy|Mystery|Romance|Thriller
 2209::Young and Innocent (1937)::Crime|Thriller
 2210::Sabotage (1936)::Thriller
-2211::Secret agent (1936)::Thriller
+2211::Secret Agent (1936)::Thriller
 2212::Man Who Knew Too Much, The (1934)::Thriller
 2213::Waltzes from Vienna (1933)::Comedy|Musical
 2214::Number Seventeen (1932)::Thriller
@@ -3013,7 +3013,7 @@ movie_id::title::genres
 3080::Goodbye, 20th Century (Zbogum na dvadesetiot vek) (1998)::Drama|Sci-Fi
 3081::Sleepy Hollow (1999)::Horror|Romance
 3082::World Is Not Enough, The (1999)::Action|Thriller
-3083::All About My Mother
+3083::All About My Mother (Todo Sobre Mi Madre) (1999)::Comedy|Drama
 3084::Home Page (1999)::Documentary
 3085::Living Dead Girl, The (La Morte Vivante) (1982)::Horror
 3086::March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) (1934)::Comedy
@@ -3070,7 +3070,7 @@ movie_id::title::genres
 3137::Sea Wolves, The (1980)::Action|War
 3138::Stealing Home (1988)::Drama
 3139::Tarzan the Fearless (1933)::Action|Adventure
-3140::Three ages, The (1923)::Comedy
+3140::Three Ages, The (1923)::Comedy
 3141::Two Jakes, The (1990)::Drama
 3142::U2: Rattle and Hum (1988)::Documentary|Musical
 3143::Hell in the Pacific (1968)::Drama|War
@@ -3208,7 +3208,7 @@ movie_id::title::genres
 3275::Boondock Saints, The (1999)::Action|Comedy
 3276::Gun Shy (2000)::Comedy
 3277::Beloved/Friend (Amigo/Amado) (1999)::Drama
-3278::gendernauts (1999)::Documentary
+3278::Gendernauts (1999)::Documentary
 3279::Knockout (1999)::Action|Adventure
 3280::Baby, The (1973)::Horror
 3281::Brandon Teena Story, The (1998)::Documentary
